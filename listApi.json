@@ -1,0 +1,77 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "BMW Car",
+        "price": "1000k",
+        "model": "B90",
+        "image":"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/brands/einstiegsseite/1280x854_P90351044_highRes_the-new-bmw-8-series.jpg"
+      },
+      {
+        "id": 2,
+        "title": "BMW Car",
+        "price": "9000k",
+        "model": "M5",
+        "image":"https://www.evanshalshaw.com/-/media/evanshalshaw/off-brand-models/bmw/bmw-m5.ashx?mh=1440&la=en&h=405&w=720&mw=2560&hash=E0474C495E236C98849CFEED8F907F06"
+      },
+      {
+        "id": 3,
+        "title": "BMW Car",
+        "price": "1000k",
+        "model": "IO7",
+        "image":"https://www.carmodelslist.com/wp-content/uploads/2019/08/BMW-M1-Hommage.jpg"
+      },
+      {
+        "id": 4,
+        "title": "BMW Car",
+        "price": "5000k",
+        "model": "M4",
+        "image":"https://www.motortrend.com/uploads/sites/5/2021/04/2021-bmw-m4-exterior-01.jpg"
+      },
+      {
+        "id": 5,
+        "title": "BMW Car",
+        "price": "2000k",
+        "model": "B90",
+        "image":"https://www.gannett-cdn.com/presto/2020/06/25/USAT/09f720f9-e788-4c16-85bd-c8159edcbf8b-BMW_Pride_Wrap_Reveal.jpg?auto=webp&crop=1637,921,x0,y614&format=pjpg&width=1200"
+      },
+      {
+        "id": 6,
+        "title": "BMW Car",
+        "price": "40000k",
+        "model": "Line Up",
+        "image":"https://www.supercars.net/blog/wp-content/uploads/2020/12/2021-BMW-M4-Competition-001-1600.jpg"
+      },
+      {
+        "id": 7,
+        "title": "BMW Car",
+        "price": "1000k",
+        "model": "ATY",
+        "image":"https://www.carpixel.net/w/18234f64e6232d788d00215548ca953d/bmw-m3-sedan-competition-car-wallpaper-101145.jpg"
+      },
+      {
+        "id": 8,
+        "title": "BMW Car",
+        "price": "25000k",
+        "model": "B90",
+        "image":"https://images.hgmsites.net/med/2021-bmw-x1_100772147_m.jpg"
+      },
+      {
+        "id": 9,
+        "title": "BMW Car",
+        "price": "45000k",
+        "model": "BLACK25",
+        "image":"https://www.cnet.com/a/img/OcTM4q5JD-ioaW-cyoQNyKhqqeU=/2018/07/09/e56148b8-22c9-41cd-ae47-f59ca5838563/2019-bmw-m850i-ogi.jpg"
+      },
+      {
+        "id": 1,
+        "title": "BMW Car",
+        "price": "9000000k",
+        "model": "BMW Next 20",
+        "image":"https://miro.medium.com/max/3840/1*ZXcaBrmkZf0488QEQUU76w.jpeg"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
